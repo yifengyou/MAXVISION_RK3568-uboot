@@ -3,7 +3,7 @@ name: MAXVISION RK3568 Uboot Build
 on:
   push:
     branches:
-      - kdev
+      - maxvision-rk3568
   repository_dispatch:
   workflow_dispatch:
 
